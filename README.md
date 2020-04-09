@@ -4,7 +4,7 @@
 
 - name: Kazumi
 - 2016-2020    Undergratudation school: WASEDA arch.
-- 2020-         Gratudation school: UT arch. 
+- 2020-         Gratudation school: UT arch.
 
 
 ##  我们就试试看
@@ -35,14 +35,14 @@
 
 多段的情况
 
-``` 
+```
 筑梦踏实
 我们的理想永远在前方
 而同时
 做好脚下的事
 ```
 
-###表格操作
+### 表格操作
 
 | 你好     | 我就试试     | zhew |
 | —------ |:---------- :| ----:|
@@ -54,7 +54,5 @@
 [1]:https://66.media.tumblr.com/94977bbcc44eb3af27f8ccf87a872b2b/tumblr_p4ruuybvhL1ueqkvzo1_1280.jpg
 
 
-
-
-
-
+我们试试在本地操作之后需要怎样上传
+### 再来一个三级标题
