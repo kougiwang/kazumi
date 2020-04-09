@@ -42,6 +42,12 @@
 做好脚下的事
 ```
 
+###表格操作
+| 你好     | 我就试试     | zhew |
+| —------ |:---------- :| ----:|
+| wobushi | sjdisjisdmk | sdks |
+| sdsnjnj | sjdnsindnsj | msds |
+
 
 
 
