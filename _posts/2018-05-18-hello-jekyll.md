@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Hello Jekyll'
-date: 2017-04-18
-author: Jekyll
+title: 'Hello World'
+date: 2020-04-10
+author: Kazumi
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
+cover: 'http://imglf6.nosdn0.126.net/img/c2xZVnlxS2YyTnBlckVpdWl0cFJjVnVoZFlmb1JzVmFoWkNiS3ljSldOOXd5UE15bnkyblV3PT0.jpg?imageView&thumbnail=2000y2000&type=jpg&quality=96&stripmeta=0&type=jpg'
+tags: girls
 ---
 
 > Transform your plain text into static websites and blogs.
