@@ -1,55 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 10 Apr 2020 23:25:34 +0900</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2020 23:25:34 +0900</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
-    
-      <item>
-        <title>第三次</title>
-        <description>&lt;h2 id=&quot;第三篇文章&quot;&gt;第三篇文章&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-10T23:42:35+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2018/05/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-05-17T15:05:21+09:00</published><updated>2018-05-17T15:05:21+09:00</updated><id>http://localhost:4000/2018/05/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2018/05/17/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-&lt;p&gt;打算好好的搞一搞，比如说
-来一个&lt;/p&gt;
-
-&lt;h3 id=&quot;三级标题&quot;&gt;三级标题&lt;/h3&gt;
-&lt;p&gt;呵呵呵
-然后再贴个图
-让我思考一下&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;什么图呢&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;图是怎么贴的来着
-&lt;img src=&quot;https://66.media.tumblr.com/94977bbcc44eb3af27f8ccf87a872b2b/tumblr_p4ruuybvhL1ueqkvzo1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;hahahaha一如既往的小哥&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 Apr 2020 22:49:46 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2020/04/10/%E7%AC%AC%E4%B8%89%E6%AC%A1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2020/04/10/%E7%AC%AC%E4%B8%89%E6%AC%A1.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
@@ -59,36 +10,26 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Hello Jekyll</title><link href="http://localhost:4000/2017/04/18/hello-jekyll.html" rel="alternate" type="text/html" title="Hello Jekyll" /><published>2017-04-18T00:00:00+09:00</published><updated>2017-04-18T00:00:00+09:00</updated><id>http://localhost:4000/2017/04/18/hello-jekyll</id><content type="html" xml:base="http://localhost:4000/2017/04/18/hello-jekyll.html">&lt;blockquote&gt;
+  &lt;p&gt;Transform your plain text into static websites and blogs.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-</description>
-        <pubDate>Fri, 10 Apr 2020 22:49:46 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2020/04/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2020/04/10/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>just try</title>
-        <description>&lt;h2 id=&quot;just-wanna-try&quot;&gt;just wanna try&lt;/h2&gt;
+&lt;h1 id=&quot;welcome&quot;&gt;Welcome&lt;/h1&gt;
 
-&lt;p&gt;its so hard for new writter&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 Apr 2020 22:49:46 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2020/04/10/justtry.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2020/04/10/justtry.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-  </channel>
-</rss>
+&lt;h2 id=&quot;welcome-1&quot;&gt;Welcome&lt;/h2&gt;
+
+&lt;h3 id=&quot;welcome-2&quot;&gt;Welcome&lt;/h3&gt;
+
+&lt;p&gt;This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-what-is-jekyll-exactlypermalink&quot;&gt;So what is Jekyll, exactly?Permalink&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like &lt;a href=&quot;https://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;) and our &lt;a href=&quot;https://github.com/Shopify/liquid/wiki&quot;&gt;Liquid&lt;/a&gt; renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.&lt;/p&gt;
+
+&lt;h3 id=&quot;helpful-hintspermalink&quot;&gt;Helpful HintsPermalink&lt;/h3&gt;
+
+&lt;p&gt;Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for.&lt;/p&gt;
+
+&lt;h3 id=&quot;video-test&quot;&gt;Video Test&lt;/h3&gt;
+
+&lt;iframe type=&quot;text/html&quot; width=&quot;100%&quot; height=&quot;385&quot; src=&quot;http://www.youtube.com/embed/gfmjMWjn-Xg&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</content><author><name>Jekyll</name></author><category term="jekyll" /><summary type="html">Transform your plain text into static websites and blogs. Welcome Welcome Welcome This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself. So what is Jekyll, exactly?Permalink Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free. Helpful HintsPermalink Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for. Video Test</summary></entry></feed>
