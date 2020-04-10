@@ -5,9 +5,41 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 10 Apr 2020 22:55:18 +0900</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2020 22:55:18 +0900</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2020 22:59:25 +0900</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2020 22:59:25 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>第三次</title>
+        <description>&lt;h2 id=&quot;第三篇文章&quot;&gt;第三篇文章&lt;/h2&gt;
+
+&lt;p&gt;打算好好的搞一搞，比如说
+来一个&lt;/p&gt;
+
+&lt;h3 id=&quot;三级标题&quot;&gt;三级标题&lt;/h3&gt;
+&lt;p&gt;呵呵呵
+然后再贴个图
+让我思考一下&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;什么图呢&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;图是怎么贴的来着
+&lt;img src=&quot;https://66.media.tumblr.com/94977bbcc44eb3af27f8ccf87a872b2b/tumblr_p4ruuybvhL1ueqkvzo1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;hahahaha一如既往的小哥&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2020 22:49:46 +0900</pubDate>
+        <link>http://localhost:4000/jekyll/update/2020/04/10/%E7%AC%AC%E4%B8%89%E6%AC%A1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2020/04/10/%E7%AC%AC%E4%B8%89%E6%AC%A1.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
