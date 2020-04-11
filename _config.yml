@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: '改个名字可以吗'
+title: 'Kazumi's hut.'
 description: '我的要求很简单'
 keywords: '就想改个名字（真的）'
 url: 'https://www.kazumi-lz.com' # your host
@@ -16,10 +16,12 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'Kazumi'
 NickName: 'kazumi'
-webtitle: 'this is my house'
-bio: 'UT student'
+webtitle: 'Welcome to Kazumi's hut.'
+bio: 'student of UT'
 about: true
-aboutyou: 'this is kazumi'
+aboutyou: '2009 - 2015 CDFLS<br>
+           2016 - 2020 WASEDA Uni.<br>
+           2020 -      UT'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
