@@ -187,7 +187,7 @@
 .markdown-body kbd,
 .markdown-body pre {
   /*font-family: monospace, monospace;*/
-  font-size: 1em;
+  font-size: 12px;
 }
 
 .markdown-body hr {
