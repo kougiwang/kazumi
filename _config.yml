@@ -63,7 +63,7 @@ pygmentsTheme: 'default'
 
 # 友情链接
 friends:
-  jekyll: 'https://www.jekyll.com.cn/'
+  #jekyll: 'https://www.jekyll.com.cn/'
   facebook: 'https://www.facebook.com/profile.php?id=100005077892930'
 
 
