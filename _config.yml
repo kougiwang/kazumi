@@ -1,90 +1,63 @@
-# Site settings 配置站点
-title: 'Kazumi's Hut'
-description: '我的要求很简单'
-keywords: '就想改个名字（真的）'
-url: 'https://www.kazumi-lz.com' # your host
+# Site settings
+title: 博客名字 # 你的博客名字，可以定义修订
+header-img: "img/green.jpg"
+tagline: "cn"  
+description: "这是我的博客"  # 一句话描述你的博客
+baseurl: ""
+url: "http://cnfeat"  # 此处填写你的博客地址 
 
-# nav 中文字符空格：&emsp;
-nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  Home: '/'
-  Tags: '/tags.html'
-  Timeline: '/timeline.html'
-  About: '/about.html'
-  Links: '/friendLink.html'
+# About/contact
+owner: 
+  name: "作者名字" # 填写作者信息：名字
+  email: X@gmail.com # 填写作者信息：邮箱
+  bio: "你的博客描述" # 填写作者信息：博客描述
 
-# 博主
-author: true
-name: 'Kazumi'
-NickName: 'kazumi'
-webtitle: 'Welcome to Kazumi's hut.'
-bio: 'student of UT'
-about: true
-aboutyou: '行不行'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+# Data
+gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
-# SNS
-SNS: true
-SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'kougi233kazumi@gmail.com'
-  #weixin: '' # 你的微信二维码存放的地址
-  #qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: 'kazumi.github.io'
-  #Codepen: ''
-  #weibo: ''
-  #instagram: ''
-  #Twitter: ''
-  #Dribbble: ''
-  #Facebook: ''
-  #Google: ''
-  #zhihu: ''
-  #juejin: ''
-  #twitch: ''
+douban_username:  # 你的豆瓣id
+twitter_username: 
+github_username: 
+facebook_username: 
+weibo_username: 
+zhihu_username: 
 
-# 分页
-paginate: 5
-paginatepath: ['page:num']
-
-# since
-footer:
-  since: 2020
-
-# Markdown
+# Build settings  
+# use Github Flavored Markdown !important  
+# document: http://jekyllrb.com/docs/configuration/#kramdown  
 markdown: kramdown
-kramdown:
-  input: GFM
-# 代码高亮 使用rouge
 highlighter: rouge
-# 代码高亮主题使用pygments主题: autumn\ default\ emacs\ friendly\ manni\ murphy\ pastie\ perldoc\ tango 任选一个你喜欢的主题名称填在下面的单引号中
-pygmentsTheme: 'default'
+permalink: pretty
+paginate: 8
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-# 友情链接
-friends:
-  #jekyll: 'https://www.jekyll.com.cn/'
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
 
-# 评论 最佳体验 在disqus、livere和Gitment之间三选一
-# disqus 评论
-disqus: false
-disqus_url: '' # https://abc.disqus.com/embed.js
-# 来必力评论
-livere: true
-livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
-# Gitment评论 OAuth Application
-Gitment: false
-Gitment_owner: ''  # github用户名
-Gitment_repo: ''  # github博客存放的仓库名
-client_id: ''  # 注册 OAuth Application 后获得的 client_id
-client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
+# Defaults for posts
+defaults:
+  -
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "你的名字" # 你的名字
+      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
-# Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
-social-share: true
-social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
+# Comments 
+comments :
+  provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
+  duoshuo :
+    short_name :  # 填写你的 disqus id
+  disqus :
+      short_name :  # 填写你的 disqus id
 
-# 百度统计 在baidu-url里填写自己相关的url代码
-baidu: true
-baidu-url: ''
-# 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
-google: false
-google-ID: ''
+# Analytics and webmaster tools stuff goes here
+google_analytics:  # 填写你  google_analytics id
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
 
-# 博客头信息备选颜色（该部分在站点中不充当站点变量，将其写在post的头信息中用来充当页面变量）
-color: rgb(154,133,255) rgb(255,90,90) rgb(255,210,32) rgb(98,170,255)
+# Links to include in footer navigation
