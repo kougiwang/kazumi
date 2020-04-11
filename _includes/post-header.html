@@ -2,12 +2,12 @@
 <header id="post-header" style="background-color:#9A85FF;">
   <div class="top-center">
       <div class="logo">
-          <a href="{{ "/" | relative_url }}" title="my awesome webtitle" style="color: white;"><font size=5>{{ site.webtitle }}</a>
+          <a href="{{ "/" | relative_url }}" title="my awesome webtitle" style="color: white;"><font size=4><font color=#8a898c>{{ site.webtitle }}</a>
       </div>
       <nav class="top-nav">
           <ul>
               {% for i in site.nav %}
-                <li><a href="{{ i[1] }}" style="color: white;"><font size=3>{{ i[0] }}</a></li>
+                <li><a href="{{ i[1] }}" style="color: white;"><font size=2><font color=#8a898c>{{ i[0] }}</a></li>
               {% endfor %}
           </ul>
       </nav>
