@@ -19,7 +19,10 @@ NickName: 'Kazumi'
 webtitle: 'Welcome to Kazumis Hut'
 bio: 'student of UT'
 about: true
-aboutyou: 'emm'
+aboutyou: '2009-2015 CDFLS'<br>
+'2016-2020 WASEDA University'<br>
+
+
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
