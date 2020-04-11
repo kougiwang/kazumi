@@ -68,3 +68,11 @@
 <script src="/assets/js/main.js"></script>
 </body>
 </html>
+
+{% if page.lang %}
+<div class="post" lang="{{page.lang}}">
+{% else %}
+<div class="post">
+{% endif %}
+  ACTUAL CONTENT HERE
+</div>

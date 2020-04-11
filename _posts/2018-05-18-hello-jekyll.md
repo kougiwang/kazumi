@@ -6,6 +6,7 @@ author: Kazumi
 color: rgb(175,201,161)
 cover: '../assets/test0411.png'
 tags: 关于自己
+lang: zh
 ---
 
 
