@@ -293,13 +293,13 @@ a{
 }
 .page-link{
   display: block;
-  height: 18px;
-  width: 18px;
+  height: 24px;
+  width: 24px;
   /*background-color: red;*/
   float: left;
   margin: 10px;
   font-size: 18px;
-  line-height: 35px;
+  line-height: 18px;
   text-align: center;
   -webkit-transition-duration: .5s;
           transition-duration: .5s;
