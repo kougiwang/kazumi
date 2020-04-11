@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Hello World'
+title: '一个简单的自我介绍'
 date: 2020-04-10
 author: Kazumi
 color: rgb(255,210,32)
-cover: 'http://imglf6.nosdn0.126.net/img/c2xZVnlxS2YyTnBlckVpdWl0cFJjVnVoZFlmb1JzVmFoWkNiS3ljSldOOXd5UE15bnkyblV3PT0.jpg?imageView&thumbnail=2000y2000&type=jpg&quality=96&stripmeta=0&type=jpg'
-tags: girls
+cover: '../assets/test0411.png'
+tags: 关于自己
 ---
 
 > Transform your plain text into static websites and blogs.
@@ -16,16 +16,40 @@ tags: girls
 
 ### Welcome
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
+想看看这个cover能不能用
+最近的世界真是太不友好了，想回国不能回，想好好开个学计划各种新事情吧，网课又让人觉得有力无处使，不过幸运的是……
+至少过的还不算太坏
+刷刷手机看看书听听音乐，在为数不多的选择中吃一点好吃的
+偶尔也会感受到强烈的幸福
 
-### So what is Jekyll, exactly?Permalink
+当然，如果正常开学了，这个hut就不存在了hhh
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+依稀记得15年的时候，我特别想要一个自己的网站，但我记得当时并没有去买域名更没有买服务器，但是还建的蛮漂亮的，（记忆缺失）真的，到底是怎么搞出来的啊草
+也许域名还是买了的，但是后来因为突然忙起来，也没有去打理续费，然后就消失了……woc我当年的域名到底是啥啊hhhh
+然后可能也是因为觉得麻烦就去申请了一个博客大巴的账号，还是写了至少……7，8篇？七七八八的想法，结果，谁知道呢，突然就开始审查……我也没写什么见不得人的内容吧，但是每次写完了不能看，就像在淘宝上买了一件巨好看的裙子但是要寄一个月才能到家，我就艸啊啊啊……但是有总比没有好。
+然后更坑爹的事就出现了……博客大巴的老板变成了失信人，然后就关闭了…………
+小朋友满头的问号啊，
+然后
+那些文章
+我都
+还没有存档呢
+真是wtf
+所以这次打算好好的弄一个靠谱点的，网络白痴查了整整一天才摸索出GitHub+jekyll模式，再绑上自己的域名。其实真的不是抱着免费蹭服务器的心思去的……我都在AWS上申请了云服务器了，可惜什么语言都不会写啊（而且这个也不是主要目的，对吧）
+三点坚持：绝不用收月租的傻瓜成品网站，绝不因为任何原因在这个地方添加广告，可以简单到什么都没有也绝不能没sense
+然后为什么不继续在类似与博客大巴的网站上重建一个blog呢，
+因为有前车之鉴了啊
+网站没了我就没了啊
+这个，这个，赛博空间之消失也太可怕了
+就算有一天GitHub垮了……我的本地也还在，每个md文件再拉个类似的框架过来还是能瞬间重建的吧
+所以，还是觉得这个模式是最好的选择，嘿嘿
+有机会我们在弄个大的，正式的服务器，不主要依赖于其他网站构建方式
 
-### Helpful HintsPermalink
+主要目的有两个
+一个是平时在票圈里悄悄发的想法（经常因为一觉醒来觉得好羞耻就删掉了……
+另一个是整理一下看的东西，学习到的新的东西（鱼的记忆真的看完就没了觉得也太可惜了
+经常复习经常总结
+才能对得起我那玻璃一样的自尊心啊
+hhhhh
 
-Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for.
-
-### Video Test
-
-<iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
+暂时就写到这里
+看看效果
