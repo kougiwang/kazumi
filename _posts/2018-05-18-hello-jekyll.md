@@ -3,7 +3,7 @@ layout: post
 title: '一个简单的开始'
 date: 2020-04-10
 author: Kazumi
-color: rgb(255,210,32)
+color: rgb(175,201,161)
 cover: '../assets/test0411.png'
 tags: 关于自己
 ---
