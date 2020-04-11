@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '一个简单的自我介绍'
+title: '一个简单的开始'
 date: 2020-04-10
 author: Kazumi
 color: rgb(255,210,32)
@@ -8,19 +8,17 @@ cover: '../assets/test0411.png'
 tags: 关于自己
 ---
 
-> Transform your plain text into static websites and blogs.
 
-# Welcome
 
-## Welcome
-
-### Welcome
+### 欢迎来到我的小窝 一个简单的开始
 
 想看看这个cover能不能用
+
 最近的世界真是太不友好了，想回国不能回，想好好开个学计划各种新事情吧，网课又让人觉得有力无处使，不过幸运的是……
-至少过的还不算太坏
-刷刷手机看看书听听音乐，在为数不多的选择中吃一点好吃的
-偶尔也会感受到强烈的幸福
+
+至少过的还不算太坏<br>
+刷刷手机看看书听听音乐，在为数不多的选择中吃一点好吃的<br>
+偶尔也会感受到强烈的幸福<br>
 
 当然，如果正常开学了，这个hut就不存在了hhh
 
