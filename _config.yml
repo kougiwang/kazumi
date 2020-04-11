@@ -20,7 +20,8 @@ webtitle: 'Welcome to Kazumis Hut'
 bio: 'student of UT'
 about: true
 aboutyou: '2009-2015 CDFLS<br>
-           2016-2020 WASEDA University'
+           2016-2020 WASEDA University<br>
+           2020-     University of Tokyo'
 
 
 portraits: '/assets/profile.jpeg' # your portraits image file path
