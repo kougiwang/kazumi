@@ -19,8 +19,8 @@ NickName: 'Kazumi'
 webtitle: 'Welcome to Kazumis Hut'
 bio: 'student of UT'
 about: true
-aboutyou: '2009-2015 CDFLS'<br>
-'2016-2020 WASEDA University'<br>
+aboutyou: '2009-2015 CDFLS
+           2016-2020 WASEDA University'
 
 
 portraits: '/assets/profile.jpeg' # your portraits image file path
