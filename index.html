@@ -1,0 +1,18 @@
+---
+layout: default
+title: Kazumi's Hut
+page-title: Kazumi's Hut
+home-title: Welcome to My World
+description: A space for some new ideas or thinkings
+---
+
+{% include header.html %}
+{% include boot.html %}
+<main>
+    {% include title.html %}
+    <ul class="post-list">
+      {% include posts_paginator.html %}
+    </ul>
+</main>
+{% include pageNav.html %}
+{% include footer.html %}
