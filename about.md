@@ -7,13 +7,15 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Hi~我是kazumi。
-这里是一个发信点+自留地，何卒〜XD
+**Hi~我是kazumi。
+这里是一个发信点+自留地，何卒〜XD**
 
 
-2009-2015  Chengdu Foreign Language School
-2016-2020  Waseda University
-2020-      University of Tokyo
+2009-2015  Chengdu Foreign Language School<br>
+<br>
+2016-2020  Waseda University<br>
+<br>
+2020-      University of Tokyo<br>
 
 
 <br/>
