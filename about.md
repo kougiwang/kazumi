@@ -7,9 +7,13 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder.
+Hi~我是kazumi。
+这里是一个发信点+自留地，何卒〜XD
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them.
+
+2009-2015  Chengdu Foreign Language School
+2016-2020  Waseda University
+2020-      University of Tokyo
 
 
 <br/>
