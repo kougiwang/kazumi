@@ -3,7 +3,7 @@ title: KAZUMI‘S PORTFOLIO
 email: kougi233kazumi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to visit my portfolio.
-baseurl:   B l o g
+baseurl:  # B l o g
 url:  www.kazumi-lz.com
 #twitter_username: twitter_username
 #github_username:  github_username
